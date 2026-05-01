@@ -1,4 +1,3 @@
-# SPBZ0
 # Urban Sound Classification
 
 This project builds a low-cost audio classification system using MFCC features and a CNN model.
@@ -20,4 +19,4 @@ This project builds a low-cost audio classification system using MFCC features a
 - images: results and diagrams
 
 ## Dataset
-UrbanSound8K
+UrbanSound8K (not included due to size)
