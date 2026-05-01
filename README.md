@@ -20,4 +20,4 @@ This project builds a low-cost audio classification system using MFCC features a
 - images: results and diagrams
 
 ## Dataset
-UrbanSound8K (not included due to size)
+UrbanSound8K
